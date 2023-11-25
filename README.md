@@ -1,2 +1,4 @@
-# GCP_DevOps_Project
-DevOps Engieer for Boni
+# Docker flask application
+
+-- This application written in Python
+-- it shall be deployed in GKE
